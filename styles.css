@@ -13,7 +13,7 @@ h2{
     display: flex;
     color: transparent;
     font-family: 'Parisienne', cursive;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 h2 span{
     animation: animate 3s linear infinite; 
